@@ -1,2 +1,3 @@
 # GoProject
-Learning the golang 
+Learning the golang basics
+simple Printline message
